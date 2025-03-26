@@ -1,2 +1,2 @@
 # GPT
-implementation GPT model 
+implementation GPT model with pytorch
